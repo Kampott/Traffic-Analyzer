@@ -1,0 +1,6 @@
+*.csv
+*.pcap
+CMakeCache.txt
+*.cmake
+MakeFile
+CMakeFiles/*
